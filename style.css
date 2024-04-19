@@ -1,0 +1,12 @@
+.welcome{
+    text-align:center;
+    color:#FFF48B;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.welcome:hover{
+    color:#ED83B5;
+}
+
